@@ -1,0 +1,10 @@
+
+.idea/
+
+*.pyc
+
+venv/bin/
+
+venv/lib/python3.7/site-packages/asgiref-3.2.3.dist-info/
+
+venv/
